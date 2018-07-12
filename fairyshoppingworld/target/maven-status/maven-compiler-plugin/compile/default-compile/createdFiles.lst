@@ -1,0 +1,17 @@
+com\niit\fairyworld\daoimpl\CartDAOImpl.class
+com\niit\fairyworld\daoimpl\UserDAOImpl.class
+com\niit\fairyworld\dao\ProductDAO.class
+com\niit\fairyworld\model\Category.class
+com\niit\fairyworld\model\Product.class
+com\niit\fairyworld\daoimpl\CategoryDAOImpl.class
+com\niit\fairyworld\dao\SupplierDAO.class
+com\niit\fairyshoppingworld\App.class
+com\niit\fairyworld\dao\CategoryDAO.class
+com\niit\fairyworld\model\Supplier.class
+com\niit\fairyworld\model\User.class
+com\niit\fairyworld\dao\CartDAO.class
+com\niit\fairyworld\dao\UserDAO.class
+com\niit\fairyworld\daoimpl\ProductDAOImpl.class
+com\niit\fairyworld\daoimpl\SupplierDAOImpl.class
+com\niit\fairyworld\model\Cart.class
+com\niit\fairyworld\config\H2configuration.class

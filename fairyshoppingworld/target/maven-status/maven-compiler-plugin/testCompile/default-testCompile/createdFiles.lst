@@ -1,0 +1,5 @@
+com\niit\fairyshoppingworld\testcases\ProductDAOTestCase.class
+com\niit\fairyshoppingworld\AppTest.class
+com\niit\fairyshoppingworld\testcases\SupplierDAOTestCase.class
+com\niit\fairyshoppingworld\testcases\UserDAOTestCase.class
+com\niit\fairyshoppingworld\testcases\CategoryTestCase.class
